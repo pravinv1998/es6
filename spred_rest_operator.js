@@ -1,3 +1,5 @@
+// rest and spread operator (' ... ')
+
 ////////////////////////////////with array/////////////////////////////////////
 // rest operator " ... "   use to combine array into single
 
